@@ -1,10 +1,11 @@
 ### Proyecto Sensores ###
 
 ### Anuncio Importante: ###
-Revisar constantemente el archivo "actualizaciones.md"
+- Revisar constantemente el archivo "actualizaciones.md" 
+- La imagen a continuación es de referencia. Los sensores mostrados en esa imagen no corresponden a los detallados en el proyecto.
 
 <div>
-  <img src="https://www.code-brew.com/wp-content/uploads/2017/12/blockchain_featured.jpeg" width="600" height="300"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/1/18/Sensores_de_Proximidade.jpg" width="600" height="300"/>
 </div>
 
 ### Acerca del proyecto: ###
@@ -41,6 +42,8 @@ Proyecto para trabajar con sensores de movimiento, humo, humedad, infrarrojo y W
   <img src="https://github.com/devicons/devicon/blob/master/icons/arduino/arduino-original-wordmark.svg" title="Arduino" alt="Arduino" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/raspberrypi/raspberrypi-original.svg" title="Raspberry Pi" alt="Raspberry Pi" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" title="C/C++" alt="C/C++" width="40" height="40"/>&nbsp;
+  
 </div>
 
 ### Invítame un café: ###
