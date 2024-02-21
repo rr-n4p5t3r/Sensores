@@ -1,10 +1,11 @@
 ### Proyecto Sensores ###
 
 ### Anuncio Importante: ###
-Revisar constantemente el archivo "actualizaciones.md"
+- Revisar constantemente el archivo "actualizaciones.md" 
+- La imagen a continuación es de referencia. Los sensores mostrados en esa imagen no corresponden a los detallados en el proyecto.
 
 <div>
-  <img src="https://www.code-brew.com/wp-content/uploads/2017/12/blockchain_featured.jpeg" width="600" height="300"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/1/18/Sensores_de_Proximidade.jpg" width="600" height="300"/>
 </div>
 
 ### Acerca del proyecto: ###
